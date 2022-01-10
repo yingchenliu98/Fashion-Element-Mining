@@ -1,1 +1,4 @@
-# Fashion-Element-Mining
+# Visual Fashion Element Mining with Deep Learning 
+
+
+This project involved using deep learning approaches to translate the social media popularity of a fashion item into market recommendations that can lift sales. With the guidance of Dr. Yu Ma and Dr. Michelle Lu, I constructed a model that recommends personalized clothing bundles to customers based on the bundles' predicted social media like counts. By recommending items as personalized sets, online stores can convince customers to purchase multiple items at once. To generate appealing recommendations, we identified and measured elements of fashion items through text extraction on existing fashion bundles. To predict the number of likes model-generated bundles would receive, we trained and tested four regression neural network models, including Random Forest, Xgboost, and FNN.  
